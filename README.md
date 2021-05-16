@@ -1,4 +1,4 @@
-# Comparison of allocated memory for Swish/MemoryEfficientSwish
+# Comparison of allocated GPU memory for Swish/MemoryEfficientSwish
 
 ## In EfficientNets
 ![efficientnet_swish](figures/figure_efficientnets.png)
